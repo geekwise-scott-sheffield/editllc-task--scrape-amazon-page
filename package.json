@@ -1,0 +1,12 @@
+{
+  "name"          : "scrape-an-amazon-page",
+  "version"       : "0.0.1",
+  "description"   : "attempting to scrape dollar value off of a specific amazon item",
+  "main"          : "server.js",
+  "author"        : "ScottyP",
+  "dependencies"  : {
+    "express"     : "latest",
+    "request"     : "latest",
+    "cheerio"     : "latest"
+  }
+}
